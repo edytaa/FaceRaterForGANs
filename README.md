@@ -1,2 +1,2 @@
 # FaceRaterForGANs
-Master's final project
+Master's final project - colab implementation
